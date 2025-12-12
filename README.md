@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Bahromjon
+# 👋 Hey, I'm Islombek
 
 Frontend Developer • React • JavaScript
 
